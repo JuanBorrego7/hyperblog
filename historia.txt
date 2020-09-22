@@ -4,10 +4,4 @@ tengo 24 años de edad Contador Publico
 
 futuro programador web
 
-con muchas ganas de aprender
-
-platzi ayudando a aprender nuevos conocimientos
-
-Soy el mejor estudiante de platzi
-
-Hoy hablaremos de como me converti en el mejor programador de la historia.
+nos enfoceramos en como se convirtio en el mejor programador web del mundo
